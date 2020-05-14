@@ -1,0 +1,12 @@
+{
+  "name": "is-odd-cyclic",
+  "version": "1.0.2",
+  "description": "check if a number is odd, relying on is-even-cyclic",
+  "main": "index.js",
+  "author": "Benjamin Große <ste3ls@gmail.com> (https://qdice.wtf)",
+  "license": "MIT",
+  "repository": "github:gipsy-king/is-odd-cyclic",
+  "dependencies": {
+    "is-even-cyclic": "^1.0.2"
+  }
+}
